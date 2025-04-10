@@ -1,0 +1,41 @@
+alpha=0.2, beta=0.5
+Epoch 1/20
+Epoch 1 average loss=18.7226
+Epoch 2/20
+Epoch 2 average loss=10.9734
+Epoch 3/20
+Epoch 3 average loss=10.2962
+Epoch 4/20
+Epoch 4 average loss=9.5179
+Epoch 5/20
+Epoch 5 average loss=9.0531
+Epoch 6/20
+Epoch 6 average loss=8.5766
+Epoch 7/20
+Epoch 7 average loss=8.0996
+Epoch 8/20
+Epoch 8 average loss=7.6207
+Epoch 9/20
+Epoch 9 average loss=7.1386
+Epoch 10/20
+Epoch 10 average loss=6.6721
+Epoch 11/20
+Epoch 11 average loss=6.2251
+Epoch 12/20
+Epoch 12 average loss=5.7760
+Epoch 13/20
+Epoch 13 average loss=5.3506
+Epoch 14/20
+Epoch 14 average loss=4.9419
+Epoch 15/20
+Epoch 15 average loss=4.5468
+Epoch 16/20
+Epoch 16 average loss=4.1757
+Epoch 17/20
+Epoch 17 average loss=3.8127
+Epoch 18/20
+Epoch 18 average loss=3.4760
+Epoch 19/20
+Epoch 19 average loss=3.1544
+Epoch 20/20
+Epoch 20 average loss=2.8567
