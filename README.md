@@ -11,9 +11,6 @@ A Gray Swan technical: **DPO-based alignment**.
   Contains Jupyter notebooks (e.g., `demo.ipynb`) demonstrating experiments end-to-end.  
 - **src/gray_swan/**  
   The main Python package divided into modules for configuration, data processing, training, evaluation, and interpretability.  
-- `__init__.py`  
-  Placed in each subdirectory to mark them as Python packages, enabling imports using package paths (e.g., `from gray_swan.evaluation import harmful_eval`).
-
 ---
 
 ## Setup
